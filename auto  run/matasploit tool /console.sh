@@ -1,1 +1,0 @@
-sudo msfconsole -r msfconsole.rc 
