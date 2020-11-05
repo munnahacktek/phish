@@ -142,7 +142,7 @@ echo
 printf "\e[1;93m       .:.:.\e[0m\e[1;77m Phishing Tool MODIFY @munna \e[0m\e[1;93m.:.:.\e[0m\n"
 printf "\n"                                                               
 printf "  \e[101m\e[1;77m:: mandi kade badsa bhari chandgi use madi ::\e[0m\n"       
-printf "  \e[101m\e[1;77m:: ## std college ##########jai bca####### ::\e[0m\n"
+printf "  \e[101m\e[1;77m:: ## stc college ########## jai BCA ####### ::\e[0m\n"
 printf "\n"
 }
 
